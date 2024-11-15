@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Openshift**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java,Python**
 
 - 📫 How to reach me **udayvikas121@gmail.com**
 
