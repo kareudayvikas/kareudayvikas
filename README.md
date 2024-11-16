@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareudayvikas&label=Profile%20views&color=0e75b6&style=flat" alt="kareudayvikas" /> </p>
 
-- 🔭 I’m currently working on **EMM**
+- 🔭 I’m currently working on **EMM,RMS AND ML MODEL TRAINING **
 
 - 🌱 I’m currently learning **DataScience**
 
